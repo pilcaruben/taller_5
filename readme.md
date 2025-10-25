@@ -62,5 +62,5 @@ mutation {
     nombre
     slogan
   }
-}
+}  
 
