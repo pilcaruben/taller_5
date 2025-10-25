@@ -51,6 +51,8 @@ npm install nodemon -D
 # }
 
 
+la version de node ocupada es la 18
+
 mutation {
   createDepartamento(input: {
     nombre: "lenguaje "
